@@ -1,0 +1,18 @@
+body {
+ background-color: #009698;
+ font-family: "Karla";
+ font-size:  70px;
+ font-weight: 600;
+ color: white;
+ text-align: center;
+}
+
+#info {
+ margin-top: 10vh;
+}
+
+
+#lyrics {
+    font-size: 35px;
+}
+
